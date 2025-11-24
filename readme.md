@@ -763,4 +763,5 @@ python -m pytest tests/
 
 **Issues**: Please report bugs or feature requests via GitHub Issues
 
-**Documentation Version**: 1.0 (2024-11-23)
+**Documentation Version**: 1.0 (2025-11-23)
+
