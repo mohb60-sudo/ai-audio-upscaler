@@ -743,7 +743,7 @@ python -m pytest tests/
 
 ## License
 
-(Not specified - recommend adding MIT or Apache 2.0 license)
+Apache 2.0 license
 
 ---
 
@@ -764,4 +764,5 @@ python -m pytest tests/
 **Issues**: Please report bugs or feature requests via GitHub Issues
 
 **Documentation Version**: 1.0 (2025-11-23)
+
 
